@@ -1,7 +1,3 @@
-# 💫 About Me:
-MCA graduate | Software & data enthusiast | Building projects, learning automation, and exploring new technologies.
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parashchand01@gmail.com) 
 
