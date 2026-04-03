@@ -34,8 +34,3 @@
 
 ### ⚡ Tools
 [![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)](https://n8n.io/)
-
-## 🌱 Currently Learning
-- Machine Learning
-- AI Automation with n8n
-- Real-world Data Projects
