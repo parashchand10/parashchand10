@@ -1,3 +1,21 @@
+<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:0D1117&height=200&section=header&text=Jray%20|%20AI%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<!-- Title -->
+<h1 align="center">Hi 👋, I'm Jray</h1>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=4CAF50&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Developer;n8n+Automation+Builder;Turning+Data+into+Insights" />
+</p>
+
+<!-- Short Intro -->
+<p align="center">
+  🚀 Passionate about AI, Data Science & Automation <br>
+  💡 Building real-world solutions using ML & n8n
+</p>
+
+
 ## 🛠️ Skills & Tools
 
 ### 📊 Data Analysis
