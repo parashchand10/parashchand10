@@ -9,13 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=4CAF50&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Enthusiast;Machine+Learning+Developer;n8n+Automation+Builder;Turning+Data+into+Insights" />
 </p>
 
-<!-- Short Intro -->
-<p align="center">
-  🚀 Passionate about AI, Data Science & Automation <br>
-  💡 Building real-world solutions using ML & n8n
-</p>
-
-
+---
 ## 🛠️ Skills & Tools
 
 ### 📊 Data Analysis
