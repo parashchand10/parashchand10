@@ -14,9 +14,11 @@
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)](https://www.geeksforgeeks.org/machine-learning/machine-learning/)
 [![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 
+### 🌐 Web Scraping
+[![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
 ### 🗄️ Database
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](
-https://www.sqltutorial.org/)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.sqltutorial.org/)
+
 ### ⚡ Tools
 [![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)](https://n8n.io/)
-
