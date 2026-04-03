@@ -1,8 +1,8 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:0D1117&height=200&section=header&text=Jray%20|%20AI%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CAF50,100:0D1117&height=200&section=header&text=Parash Chand%20|%20Data%20Analyst|%20Data%20Scientist&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <!-- Title -->
-<h1 align="center">Hi 👋, I'm Jray</h1>
+<h1 align="center">Hi 👋, I'm Parash Chand</h1>
 
 <!-- Typing Animation -->
 <p align="center">
