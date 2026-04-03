@@ -1,5 +1,5 @@
 ## 🛠️ Skills & Tools
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 ### 📊 Data Analysis
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/user_guide/10min.html)
@@ -22,3 +22,8 @@
 
 ### ⚡ Tools
 [![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)](https://n8n.io/)
+
+## 🌱 Currently Learning
+- Machine Learning
+- AI Automation with n8n
+- Real-world Data Projects
