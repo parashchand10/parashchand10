@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Parash%20Chand&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Data%20Scientist&descSize=22&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Parash%20Chand&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Data%20Analyst&descSize=22&descAlignY=60&descAlign=50" width="100%" />
 
 <!-- Title -->
 <h1 align="center">Hi , I'm Parash Chand</h1>
