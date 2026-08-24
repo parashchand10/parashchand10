@@ -29,9 +29,6 @@
 ### 🧠 Deep Learning 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
-### 🤖 Transformers 
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
-
 ### 🌐 Web Scraping
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)](https://www.geeksforgeeks.org/python/implementing-web-scraping-python-beautiful-soup/)
 
