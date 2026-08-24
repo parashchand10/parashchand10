@@ -18,7 +18,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/user/quickstart.html)
 [![EDA](https://img.shields.io/badge/EDA-Analysis-blue?style=for-the-badge)](https://www.geeksforgeeks.org/data-analysis/exploratory-data-analysis-in-python/)
 
-### 📈 Visualization
+### 📈 Data Visualization
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge)](https://matplotlib.org/stable/tutorials/index.html)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://seaborn.pydata.org/)
 
@@ -35,5 +35,5 @@
 ### 🗄️ Database
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.sqltutorial.org/)
 
-### ⚡ Tools
+### ⚡ Automation Tools
 [![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)](https://n8n.io/)
