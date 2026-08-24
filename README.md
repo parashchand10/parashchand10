@@ -26,6 +26,8 @@
 [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)](https://www.geeksforgeeks.org/machine-learning/machine-learning/)
 [![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 
+### 🧠 Deep Learning [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/) [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+
 ### 🌐 Web Scraping
 [![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4CAF50?style=for-the-badge)](https://www.geeksforgeeks.org/python/implementing-web-scraping-python-beautiful-soup/)
 
